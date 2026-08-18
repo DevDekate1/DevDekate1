@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devdekate1&label=Profile%20views&color=0e75b6&style=flat" alt="devdekate1" /> </p>
 
-- 🔭 I’m currently working on **RETAIL SALES PERFORMANCE DASHBOARD**
+- 🔭 I’m currently working on **Live Chatbot**
 
 - 🌱 I’m currently learning **Powebi,Python,Exle,Sql**
 
