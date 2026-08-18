@@ -1,5 +1,5 @@
 ## <h1 align="center">Hi 👋, I'm Dev Dekate</h1>
-<h3 align="center">A passionate I am a Data Analytics learner skilled in Excel, SQL, Power BI, and Python. I enjoy analyzing data and creating dashboards from India</h3>
+<h3 align="center">A passionate I am a Data Analytics learner skilled in Excel, SQL, Power BI, and Python. I enjoy analyzing data and creating dashboards </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devdekate1&label=Profile%20views&color=0e75b6&style=flat" alt="devdekate1" /> </p>
 
